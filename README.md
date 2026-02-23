@@ -1,1 +1,30 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22754752)
+# Guide to downloading and running the Rocktutman1 ip-freely scanner
+
+## Description
+
+The **Rocktutman1 scanner** is a ip scanner
+![flowchart image](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20005620.png)
+## Requirements
+
+- **Python3** or higher
+- *sys*, *re*, *subprocess*
+- Using a linux OS 
+
+
+## Instillation 
+
+Clone the git repository
+
+> git clone https://github.com/WTCSC/ip-freely-rocktutman1
+
+
+## Usage
+
+Run file Scanner.py along with the ip address in CIDR notation that you would like to scan the range of
+ex:
+> python3 Scanner.py 192.168.50.1/24
+
+
+## Configuration
+
+No configuration is curently available
