@@ -3,7 +3,8 @@
 ## Description
 
 The **Rocktutman1 scanner** is a ip scanner
-![flowchart image](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20005620.png)
+!! Dont scan networks you arent allowed to since its on some illegal type shi !!
+
 ## Requirements
 
 - **Python3** or higher
